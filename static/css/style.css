@@ -1,0 +1,38 @@
+.ivu-col-span-8{
+	margin-top: 54px;
+}
+.ivu-menu-vertical{
+	width: 217px !important;
+	background-color: #000c17 !important;
+	color: #fff !important;
+}
+.ivu-menu-vertical .ivu-menu-submenu-title{
+	background-color: #001529 !important;
+	color: #fff !important;
+}
+.ivu-menu-vertical .ivu-menu-submenu .ivu-menu-submenu .ivu-menu-submenu-title{
+	background-color: #000c17 !important;
+	color: #fff !important;
+}
+.ivu-menu-vertical .ivu-menu-submenu .ivu-menu-submenu .ivu-menu-item{
+	background-color: #000c17 !important;
+	color: #fff !important;
+}
+
+.ivu-select-dropdown{
+	margin: 0px 0px !important;
+}
+.ivu-input{
+	border-radius:70px !important;
+	height: 27px !important;
+	background: none !important;
+	color: #597390 !important;
+	border: rgba(221, 230, 239, 0.6) solid 2px !important;
+	text-align: center;
+	outline:none !important;
+	box-shadow: none !important;
+}
+.ivu-input-icon{
+	line-height:27px !important;
+}
+
